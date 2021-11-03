@@ -1,0 +1,9 @@
+/home/gui/Projects/rustLearning/target/rls/debug/deps/tokio_reactor-1c3567637789cc52.rmeta: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/gui/Projects/rustLearning/target/rls/debug/deps/tokio_reactor-1c3567637789cc52.d: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/lib.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/background.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/poll_evented.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/registration.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.12/src/sharded_rwlock.rs:

@@ -1,0 +1,11 @@
+/home/gui/Projects/rustLearning/target/debug/deps/time-92027f40645f031b.rmeta: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/home/gui/Projects/rustLearning/target/debug/deps/libtime-92027f40645f031b.rlib: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/home/gui/Projects/rustLearning/target/debug/deps/time-92027f40645f031b.d: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs:

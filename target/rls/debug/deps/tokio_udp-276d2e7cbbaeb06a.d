@@ -1,0 +1,9 @@
+/home/gui/Projects/rustLearning/target/rls/debug/deps/tokio_udp-276d2e7cbbaeb06a.rmeta: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs
+
+/home/gui/Projects/rustLearning/target/rls/debug/deps/tokio_udp-276d2e7cbbaeb06a.d: /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs /home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs
+
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs:
+/home/gui/.asdf/installs/rust/1.48.0/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs:

@@ -1,0 +1,1 @@
+{"rustc":14088978341743255589,"features":"[]","target":12409328281715550724,"profile":6299028598154287785,"path":2153917932997471124,"deps":[[6144595904393100570,"futures",false,10836582313865519036]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/tokio-service-5ea04760dc93b79a/dep-lib-tokio-service"}}],"rustflags":[],"metadata":17528232724470598123,"config":0}
